@@ -254,38 +254,6 @@ void main(List<String> arguments) {
         print('Opção inválida');
     }
 
-    // if(escolha == 1){
-    //   cadastrarAutor();
-    // }
-
-    // if(escolha == 2){
-    //   cadastrarLivro();
-    // }
-
-    // if(escolha == 3){
-    //   cadastrarUsuario();
-    // }
-
-    // if(escolha == 4){
-    //   emprestarLivro();
-    // }
-
-    // if(escolha == 5){
-    //   devolverLivro();
-    // }
-
-    // if(escolha == 6){
-    //   listarLivrosDisponiveis();
-    // }
-
-    // if(escolha == 7){
-    //   listarLivrosEmprestados();
-    // }
-
-    // if(escolha == 8){
-    //   listarLivroPorAutor();
-    // }
-
   }while(escolha != 0);
 
 
